@@ -1,0 +1,26 @@
+body {
+	font-family: 'Karla';
+	font-size: 18px;
+	line-height: 32px;}
+
+p {
+	padding-bottom: 18px;}
+
+a { 
+	text-decoration: none;
+	color: #00a;}
+
+a:hover { background: #fbf8e3;}
+
+.pin-title { text-decoration:none;color:#00a;}
+.pin-description { color:#46464a;}
+.pin-tag { display: none;}
+
+h1 {font-size: 18px;}
+#main {padding: 48px;}
+section {padding-top: 36px; padding-bottom: 72px; max-width: 800px; margin:0 auto; left:-20px;}
+footer {padding-top: 4px;}
+
+footer p {font-size: 16px; color: #46464a; text-align: center;}
+
+hr {width: 20px; border: 0; height: 1px; background: #ccc;}
